@@ -1,6 +1,6 @@
 # PhoneBook-App-Servlet
 
-# 📞 PhoneBook Web Application
+## 📞 PhoneBook Web Application
 
 A simple contact management web application built using **Java Servlets**, **JSP**, **MySQL**, and **HTML/CSS**. Users can add contacts and view the contact list with call and message options.
 
